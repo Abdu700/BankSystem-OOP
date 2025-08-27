@@ -10,8 +10,8 @@ This **C++ console application** applies object-oriented programming (**OOP**) p
 
 ✨ Key Features
 
-- Organize client data using classes (**OOP**)
-- Add, update, delete, and search clients
+- Manage clients: add, update, delete, and search clients
 - Perform transactions: deposit, withdraw, and show total balances
 - Menu-based interface with input validation
 - Saves all changes automatically to `Clients.txt`
+- Demonstrates practical use of classes, encapsulation, and modular design for clear and maintainable code

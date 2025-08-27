@@ -1,0 +1,27 @@
+﻿  BankSystem.cpp
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\Bank System - OOP\clsString.h(38,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\Bank System - OOP\clsString.h(134,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\Bank System - OOP\clsString.h(244,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\Bank System - OOP\clsString.h(269,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\Bank System - OOP\clsString.h(294,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\Bank System - OOP\clsString.h(332,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\Bank System - OOP\clsString.h(399,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\Bank System - OOP\clsString.h(404,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\Bank System - OOP\clsBankClient.h(308,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  Bank System - OOP.vcxproj -> C:\Users\ZELDAAA\Desktop\Programming\10 - OOP as it Should Be (Concepts)\Bank System - OOP\x64\Debug\Bank System - OOP.exe
